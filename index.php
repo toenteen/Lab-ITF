@@ -11,7 +11,7 @@
     <img src="cow.jpg">
     <img src="alp.jpg">
     <br>
-    <a href="http://www.oremanga.com/"><button type="button" class="btn btn-primary">This Link</button></a>
+    <a href="https://www.oremanga.com/"><button type="button" class="btn btn-primary">This Link</button></a>
     <h2><div class="alert alert-primary" role="alert">
     เรื่องตลก
     </div></h2>
