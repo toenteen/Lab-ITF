@@ -12,9 +12,9 @@
     <img src="alp.jpg">
     <br>
     <a href="http://http://www.oremanga.com/">This is a Link</a>
-    <h2<div class="alert alert-primary" role="alert">
+    <h2><div class="alert alert-primary" role="alert">
   เรื่องตลก
-</div>h2>
+</div></h2>
     <p>ครบรอบแต่งงาน
       สามีภรรยาฉลองครบรอบแต่งงาน 25 ปี กันสองต่อสองที่บ้าน เมื่อแชมเปญ หมดไปสองขวด สามีก็หันไปถามภรรยา 
       ที่รัก ถามจริงๆ นะ อยู่กันมา 25 ปีนี่ เธอเคยนอกใจฉันบ้างไหม?" 
