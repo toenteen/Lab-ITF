@@ -1,5 +1,5 @@
 <html>
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 <head>
     <title>ส่งงาน ITF</title>
 </head>
@@ -12,7 +12,9 @@
     <img src="alp.jpg">
     <br>
     <a href="http://http://www.oremanga.com/">This is a Link</a>
-    <h2>เรื่องตลก</h2>
+    <h2<div class="alert alert-primary" role="alert">
+  เรื่องตลก
+</div>h2>
     <p>ครบรอบแต่งงาน
       สามีภรรยาฉลองครบรอบแต่งงาน 25 ปี กันสองต่อสองที่บ้าน เมื่อแชมเปญ หมดไปสองขวด สามีก็หันไปถามภรรยา 
       ที่รัก ถามจริงๆ นะ อยู่กันมา 25 ปีนี่ เธอเคยนอกใจฉันบ้างไหม?" 
